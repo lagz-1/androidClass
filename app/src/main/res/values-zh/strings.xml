@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Class</string>
+    <string name="hello">你好安卓</string>
+    <string name="hint_text">请输入</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="red">red</string>
+
+    <string-array name="myarry">
+        <item>Kate</item>
+        <item>Jane</item>
+        <item>lily</item>
+        <item>mike</item>
+    </string-array>
+</resources>
